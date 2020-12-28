@@ -38,7 +38,7 @@
         <ul>
         <li><a href="#features">Features</a>
             <ul>
-        		<li><a href="#asessments-/-courses-/-grading">Asessments / Courses / Grading</a></li>
+        		<li><a href="#assessments-/-courses-/-grading">Asessments / Courses / Grading</a></li>
                 <li><a href="#survey-/-rating">Survey / Rating</a></li>
                 <li><a href="#hiring-/-finding-opportunities">Hiring / Finding Opportunities</a></li>
                 <li><a href="#real-time-chat">Real-Time Chat</a></li>
@@ -91,7 +91,7 @@
 
 ### Features
 
-- #### Asessments / Courses / Grading
+- #### Assessments / Courses / Grading
 
 <p align="center">
     <img src="readme_imgs/analytics.PNG" alt="Logo">
